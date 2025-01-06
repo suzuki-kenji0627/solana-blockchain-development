@@ -3,3 +3,5 @@
 */.DS_Store
 
 .vscode
+config.bat
+node_modules
